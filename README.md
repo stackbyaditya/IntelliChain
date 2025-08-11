@@ -94,19 +94,7 @@ Prototype 1/
 - **Industrial Focus** - Specifically designed for Delhi's MSME ecosystem
 - **Scalable Architecture** - Ready for backend integration and deployment
 
-## 🚀 Deployment
-Ready for deployment on:
-- **Vercel** (Recommended for Next.js)
-- **Netlify**
-- **AWS Amplify**
 
-```bash
-# Build for production
-npm run build
-
-# Deploy to Vercel
-npx vercel --prod
-```
 
 ## 📊 Performance Metrics (Simulated)
 - **Cost Reduction**: 42% through load pooling
